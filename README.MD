@@ -9,7 +9,7 @@ The api currently has two supported functions.
 
 These paths are part of the /api/v1/zab path. The testackwtask is just a simple test which will parse out the arguements and return them to you. The ackwtask will utilize the zabbix api to acknowledge a specific event with a task/incident number that was created by Servicenow.
 
-![arch](documentation/servicenow2zab_flow)
+![arch](documentation/servicenow2zab_flow.jpg)
 
 ## Requirements
 
